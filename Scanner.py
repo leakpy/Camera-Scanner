@@ -16,7 +16,8 @@ text = """
    ██║   ██║  ██║╚██████╔╝███████║   ██║      ██║   
    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝      ╚═╝   
                                                     
-| GITHUB: TRUUSTY | DISCORD: TRUSTY.PY | TELEGRAM: TRUUSTYLOL |                   
+| GITHUB: TRUUSTY | DISCORD: TRUSTY.PY | TELEGRAM: TRUUSTYLOL | 
+| Github repo: https://github.com/truusty/Camera-Scanner |
 """
 print(fade.purplepink(text))
 
