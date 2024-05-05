@@ -7,19 +7,23 @@ from requests.structures import CaseInsensitiveDict
 
 
 text = """
+      ████████╗██████╗ ██╗   ██╗███████╗████████╗██╗   ██╗
+      ╚══██╔══╝██╔══██╗██║   ██║██╔════╝╚══██╔══╝╚██╗ ██╔╝
+         ██║   ██████╔╝██║   ██║███████╗   ██║    ╚████╔╝ 
+         ██║   ██╔══██╗██║   ██║╚════██║   ██║     ╚██╔╝  
+         ██║   ██║  ██║╚██████╔╝███████║   ██║      ██║   
+         ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝      ╚═╝   
+ """
+print(fade.purplepink(text)) 
+desc = """   
+                | YOU CAN CONTACT ME VIA | 
 
+| GITHUB: TRUUSTY | DISCORD: TRUSTY.PY | TELEGRAM: TRUUSTYLOL |
 
-████████╗██████╗ ██╗   ██╗███████╗████████╗██╗   ██╗
-╚══██╔══╝██╔══██╗██║   ██║██╔════╝╚══██╔══╝╚██╗ ██╔╝
-   ██║   ██████╔╝██║   ██║███████╗   ██║    ╚████╔╝ 
-   ██║   ██╔══██╗██║   ██║╚════██║   ██║     ╚██╔╝  
-   ██║   ██║  ██║╚██████╔╝███████║   ██║      ██║   
-   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝      ╚═╝   
-                                                    
-| GITHUB: TRUUSTY | DISCORD: TRUSTY.PY | TELEGRAM: TRUUSTYLOL | 
-| Github repo: https://github.com/truusty/Camera-Scanner |
-"""
-print(fade.purplepink(text))
+  | Github repo: https://github.com/truusty/Camera-Scanner |
+
+""" 
+print(fade.purpleblue(desc))
 
 url = "http://www.insecam.org/en/jsoncountries/"
 
