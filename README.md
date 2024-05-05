@@ -16,4 +16,4 @@ Camera-Scanner is a Python-based tool.
 Then Tool pulls and sends to you the Choosen Country's Open Camera addresses.
 
 ## Usage Caution
-- Any misuse or violation responsibility of the user.
+- Any misuse or violation is the responsibility of the user.
